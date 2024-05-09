@@ -1,0 +1,14 @@
+//
+// Created by zacru on 5/9/2024.
+//
+
+#ifndef INC_30_WORLDS_CITY_GENERATOR_NAMEGENERATOR_H
+#define INC_30_WORLDS_CITY_GENERATOR_NAMEGENERATOR_H
+
+
+class NameGenerator {
+
+};
+
+
+#endif //INC_30_WORLDS_CITY_GENERATOR_NAMEGENERATOR_H
