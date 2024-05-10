@@ -1,0 +1,398 @@
+Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld.
+Charity. I always try to help those in need, no matter what the personal cost.
+Change. We must help bring about the changes the gods are constantly working in the world.
+Power. I hope to one day rise to the top of my faith's religious hierarchy.
+Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well.
+Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings.
+Discovery. I want to be the first person to discover a lost culture.
+Distance. One must not interfere with the affairs of another culture - even one in need of aid.
+Knowledge. By understanding other races and cultures, we learn to understand ourselves.
+Power. Common people crave strong leadership, and I do my utmost to provide it.
+Protection. I must do everything possible to save a society facing extinction.
+Indifferent. Life is cruel. What's the point in saving people if they're going to die anyway?
+Preservation. That artifact belongs in a museum.
+Greed. I won't risk my life for nothing. I expect some kind of payment.
+Death Wish. Nothing is more exhilarating than a narrow escape from the jaws of death.
+Dignity. The dead and their belongings deserve to be treated with respect.
+Immortality. All of my exploring is part of a plan to find the secret of everlasting life.
+Danger. With every great discovery comes grave danger. The two walk hand in hand.
+Competition. I strive to test myself in all things.
+Triumph. The best part of winning is seeing my rivals brought low.
+Camaraderie. The strongest bonds are forged through struggle.
+People. I strive to inspire my spectators.
+Tradition. Every game has rules, and the playing field must be level.
+Growth. Lessons hide in victory and defeat.
+Guild. My guild is all that really matters.
+Order. The law is meant to ensure that the gears of society turn smoothly and quietly.
+Peace. The ultimate object of the law is to remove violence from society.
+Compliance. Coercion is a fine way of ensuring that the laws are obeyed.
+Legislation. The law embodies excellence in its precision and detail.
+Punishment. A public display of consequences is an excellent deterrent for other criminals.
+Suspicious. In my experience, everybody has something to hide, and what they hide can usually hurt me.
+Secretive. I trade in secrets, and am not about to let any of mine slip.
+Hedonist. Life is short. I live my life to the fullest, as I know any day could be my last.
+Selfless. I use my position to help the downtrodden avoid persecution from the authorities.
+Patriotic. I am a loyal supporter of home nation and its leaders, and see my role as a solemn duty and necessary evil to prevent anarchy.
+Manipulative. I use my knowledge to blackmail and manipulate others to my own benefit.
+Guild. My guild is all that really matters.
+Justice. Achieving justice requires establishing fair, equitable, and compassionate relationships within a community.
+Protection. It isn't right for innocents to suffer because of the arrogance of the powerful.
+Solidarity. It is most crucial to act with a single will, marching side by side in perfect accord.
+Order. Society functions only if people do their duty and respect the chain of command.
+Conviction. Anything worth doing is worth doing with your whole heart.
+Service. Using my talents to help others is the best way of helping myself.
+Selfish. What people don't know WILL hurt them, but why is that my problem?
+Wanderer. I go where the road takes me. Sometimes that's a good thing...
+Fittest. On the open road, the law of nature wins. Victims are the unprepared.
+Focused. I simply have a job to do, and I'm going to do it.
+Motivated. There's a reason I'm good at what I do, I pay attention to the details.
+Power. The only way to get ahead in this world is to attain power and hold onto it with all your might.
+Peace. Those who can find or make peace in the chaotic world around them have everything.
+Fame. I've seen what fame can bring. And I'll do anything to get all that for myself.
+Training. Hard work, sacrifice, and training lead to success—and eventually to perfection.
+Anonymity. I want to be successful. And alone. With lots of guards and wards between me and everyone else in the world.
+Wisdom. Material wealth is an illusion. Wisdom is the real treasure.
+Independence. I am a free spirit—no one tells me what to do.
+Fairness. I never target people who can't afford to lose a few coins.
+Charity. I distribute the money I acquire to the people who really need it.
+Creativity. I never run the same con twice.
+Friendship. Material goods come and go. Bonds of friendship last forever.
+Aspiration. I'm determined to make something of myself.
+Patient. The elves have taught me to think and plan for the long-term.
+Rebellious. Governments and politicians drove my family to the camps. I subtly defy authority whenever I think I can get away with it.
+Self - Absorbed. I've had to look out for number one so long that it has become second nature.
+Wanderlust. I want to see as much of the world beyond the camps as I can.
+Generous. I give everything I can to help those in need, regardless of who they are.
+To the Abyss with Them. The people of Hillsfar cast me out. I won't risk my hide to help them.
+Honor. I don't steal from others in the trade.
+Freedom. Chains are meant to be broken, as are those who would forge them.
+Charity. I steal from the wealthy so that I can help people in need.
+Greed. I will do whatever it takes to become wealthy.
+People. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care.
+Redemption. There's a spark of good in everyone.
+Guild. My true guild is all that really matters.
+Control. I like pulling the strings.
+Secrets. I collect secrets and never reveal them.
+Knowledge. I want to know as much as I can about this city and how it works.
+Independence. I value the freedom to pursue my own goals without interference.
+Nihilism. I don't believe in anything, and anyone who does is a fool.
+Survivor. No matter the cost, I will take any action necessary to survive.
+Independence. When in trouble, the only person I can rely on is myself.
+Compassionate. I have suffered long at the hands of a Dragon, and take pity and compassion on the suffering of others.
+Secretive. I am withdrawn, and hide my monstrous appearance for fear of drawing unwanted attention.
+Justice. I have been wronged, and will not allow the same fate to befall others.
+Sycophant. During my ordeal, I became a willing servant of the Maimed Virulence, and spy on his behalf.
+Generosity. The riches of the earth are to be shared by all.
+Greed. Gems and precious metals, I want them all for myself.
+Mooch. Property, schmoperty. If I need it, I take and use it. If I don't, I leave it for someone else.
+Boundaries. Everything and everyone has its prescribed place; I respect that and expect others to do the same.
+Let it Be. I don't meddle in the affairs of others if I can avoid it. They're none of my business.
+Materialist. I want riches to improve my life.
+Beauty. When I perform, I make the world better than it was.
+Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are.
+Creativity. The world is in need of new ideas and bold action.
+Greed. I'm only in it for the money and fame.
+People. I like seeing the smiles on people's faces when I perform. That's all that matters.
+Honesty. Art should reflect the soul; it should come from within and reveal who we really are.
+Justice. Place in society shouldn't determine one's access to what is right.
+Security. Doing what must be done can't bring the innocent to harm.
+Confusion. Deception is a weapon. Strike from where your foes won't expect.
+Infamy. My name will be a malediction, a curse that fulfills my will.
+Incorruptibility. Be a symbol, and leave your flawed being behind.
+Anonymity. It's my deeds that should be remembered, not their instrument.
+Survival. Where there's life, there's hope. If I remain alive and flexible, I can succeed.
+Generosity. People helped me when I was down. Now that I'm back on my feet, I'll pay it forward.
+Excitement. Caution got me nowhere in my previous business. I'm not going to let it hold me back now.
+Wealth. With enough coin, I can buy comfort, power, knowledge, and even eternal life. Nothing will stand between me and money.
+Stability. The mercantile trade was too chaotic for me. I need a nice stable profession, like adventuring.
+Redemption. Too many people consider me a failure. So I need to prove them wrong.
+Open. I have much to learn from the kindly folk I meet along my way.
+Reserved. As someone new to these strange lands, I am cautious and respectful in my dealings.
+Adventure. I'm far from home, and everything is strange and wonderful!
+Cunning. Though I may not know their ways, neither do they know mine, which can be to my advantage.
+Inquisitive. Everything is new, but I have a thirst to learn.
+Suspicious. I must be careful, for I have no way of telling friend from foe here.
+Friendship. I never leave a friend behind.
+Empathy. No creature should be made to suffer.
+Wanderlust. I prefer to take the less traveled path.
+Changeability. Change is good, which is why I live by an ever-changing set of rules.
+Honor. A deal is a deal, and I would never break one.
+Rule of Three. Everything in the multiverse happens in threes. I see the "rule of three" everywhere.
+Obsession. I won't let go of a grudge.
+Greed. I will do whatever it takes to get what I want, regardless of the harm it might cause.
+Camaraderie. Good people make even the longest voyage bearable.
+Luck. Our luck depends on respecting its rules—now throw this salt over your shoulder.
+Daring. The richest bounty goes to those who risk everything.
+Plunder. Take all that you can and leave nothing for the scavengers.
+Balance. Do not fish the same spot twice in a row; suppress your greed, and nature will reward you.
+Hard Work. No wave can move a soul hard at work.
+Respect. People deserve to be treated with dignity and respect.
+Fairness. No one should get preferential treatment before the law, and no one is above the law.
+Freedom. Tyrants must not be allowed to oppress the people.
+Might. If I become strong, I can take what I want—what I deserve.
+Sincerity. There's no good in pretending to be something I'm not.
+Destiny. Nothing and no one can steer me away from my higher calling.
+Knowledge. Knowledge is power, and knowing which horse to back is the key to success.
+Fate. Whatever happens is fated, regardless of any planning or striving.
+Bravery. If you want to succeed, you have to take risks.
+Survival. You can't win if you're dead. Live to fight another day—when the odds might be more in your favor.
+Reliability. When I was in need, I was able to rely on others. Now I want to be the one others rely on.
+Victory. Winning is the real measure of a person. In the end, the only thing that matters is the scoreboard.
+Loyal. I never rat out any of my friends.
+Adventurous. I don't like doing the same thing every day. I crave variety.
+Strong. Only the strong survive. I respect those who are strong and powerful.
+Witty. Brains are better than brawn. I rely on my wits and respect others who do the same.
+Honest. Others can do what they want, but I won't lie or steal, even to feed my family.
+Ungrateful. Those who give, only do it to make themselves feel better. I steal from them.
+Guild. My guild is all that really matters.
+Stoicism. All of us are part of the cyclical march of nature, which will continue with or without us.
+Nature. The natural world is more important than the edifices of the city and civilization.
+Interdependence. We are all part of nature's web.
+Ambition. The time of Golgari ascendance is at hand, and I intend to have a prominent place in the new world order.
+Live and Let Live. Meddling in the affairs of other guilds is a great way to get squashed like a bug.
+Revolution. Tyrants must fall, no matter the cost.
+Compassion. The only way to make a better world is to perform small kindnesses.
+Justice. A nation built upon just foundations will uphold freedom for all.
+Expression. Music, joy, and laughter are the keys to freedom.
+Self-Determination. People should be free to do as they please.
+Vigilance. A free people must be carefully taught, lest they be misled.
+Clan. My clan is all that really matters.
+Anarchy. No person or law or custom can tell another what to do.
+Nature. We weren't born tame or domesticated, so we shouldn't have to live that way.
+Might. The strongest are meant to dominate the weak.
+Rage. AAAAAARRRRggggh! [To live is to feel and express the rage burning in your belly.]
+Tradition. The Old Ways must be preserved and upheld.
+Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization.
+Generosity. My talents were given to me so that I could use them to benefit the world.
+Freedom. Everyone should be free to pursue his or her own livelihood.
+Greed. I'm only in it for the money.
+People. I'm committed to the people I care about, not to ideals.
+Aspiration. I work hard to be the best there is at my craft.
+Calm. For all things, there is a tide. I set sail when it is right, and mend my nets when it is not.
+Windblown. I go where the winds blow. No man or woman tells me where or when to sail.
+Aspiring. I will gain the favor of a Zor or Zora patron, maybe even one of the Blades!
+Salty. I want people to look to me as an expert on plying Mulmaster Harbor.
+Selfless. We are all children of the sea. I help everyone in peril afloat and ashore.
+Let them Drown. I refuse to risk my hide to help others. They wouldn't help me if roles were reversed.
+Adrenaline. I've experienced such strangeness that now I feel alive only in extreme situations.
+Balance. I strive to counter the deeds of someone for whom I feel responsible.
+Bound. I've wronged someone and must work their will to avoid their curse.
+Escape. I believe there is something beyond the world I know, and I need to find it.
+Legacy. I must do something great so that I'm remembered, and my time is running out.
+Misdirection. I work vigorously to keep others from realizing my flaws or misdeeds.
+Obsession. I've lived this way for so long that I can't imagine another way.
+Obligation. I owe it to my people, faith, family, or teacher to continue a vaunted legacy.
+Promise. My life is no longer my own. I must fulfill the dream of someone who's gone.
+Revelation. I need to know what lies beyond the mysteries of death, the world, or the Mists.
+Sanctuary. I know the forces at work in the world and strive to create islands apart from them.
+Truth. I care about the truth above all else, even if it doesn't benefit anyone.
+Greater Good. My gifts are meant to be shared with all, not used for my own benefit.
+Logic. Emotions must not cloud our sense of what is right and true, or our logical thinking.
+Free Thinking. Inquiry and curiosity are the pillars of progress.
+Power. Solitude and contemplation are paths toward mystical or magical power.
+Live and Let Live. Meddling in the affairs of others only causes trouble.
+Self-Knowledge. If you know yourself, there's nothing left to know.
+Frugal. I spend my money very carefully.
+Profligate. I tend to spend extravagantly.
+Honest. I deal with others above board.
+Sharp. I seek to make the best deal possible.
+Charitable. I give generously to others.
+Greedy. I do not share my wealth with others.
+Fair. I think everyone deserves to be treated fairly. I don't play favorites.
+Impulsive. Planning is often a waste of time. No plan survives contact with reality. It's easier to dive in and deal with the consequences.
+Curious. I want to learn as much as I can about the people and places I encounter.
+Prepared. I think success depends on preparing as much as possible in advance.
+Respectful. I think everyone deserves to be treated with respect and dignity, regardless of their race, creed, color, or origin.
+Corrupt. I will break the law or act dishonestly if the money is right.
+Common Good. My house serves a vital function, and its prosperity will help everyone.
+Tradition. I uphold traditions of my house and bring honor to my family.
+Innovation. Abandon old traditions and find better ways to do things.
+Power. I want to ensure the prosperity of my house and wield its power myself.
+Discovery. I want to learn all I can, both for my house and for my own curiosity.
+Comfort. I want to ensure that me and mine enjoy the best things in life.
+Solidarity. The thing that matters most of all is that we're there for each other.
+Knowledge. The world is a puzzle—a mystery waiting to be solved.
+Strength. All that matters to me is my own perfection. Let everyone else seek that perfection in their own way.
+Ambition. I'm going to prove that I deserve only the best—of everything.
+Zeal. Anything worth doing is worth throwing my whole self into.
+Redemption. I will train all the harder to make up for the doubt I entertained when I was younger.
+Adrenaline. I've experienced such strangeness that now I feel alive only in extreme situations.
+Balance. I strive to counter the deeds of someone for whom I feel responsible.
+Bound. I've wronged someone and must work their will to avoid their curse.
+Escape. I believe there is something beyond the world I know, and I need to find it.
+Legacy. I must do something great so that I'm remembered, and my time is running out.
+Misdirection. I work vigorously to keep others from realizing my flaws or misdeeds.
+Obsession. I've lived this way for so long that I can't imagine another way.
+Obligation. I owe it to my people, faith, family, or teacher to continue a vaunted legacy.
+Promise. My life is no longer my own. I must fulfill the dream of someone who's gone.
+Revelation. I need to know what lies beyond the mysteries of death, the world, or the aether.
+Sanctuary. I know the forces at work in the world and strive to create islands apart from them.
+Truth. I care about the truth above all else, even if it doesn't benefit anyone.
+Loyalty. Never bite the hand that feeds.
+Unpredictability. Keep your enemy guessing and off-balance like a confused deer.
+Power. I strive to become leader of the pack at all costs.
+Freedom. I bow to no one I don't respect.
+Resourcefulness. Our wits are our most valuable resource in troubled times.
+Unity. Lone wolves fail where the pack succeeds.
+Guild. My guild is all that really matters.
+Creativity. Half the world's troubles come from stodgy thinking, stuck in the past. We need innovative solutions.
+Discovery. Every experiment has the potential to reveal more secrets of the multiverse.
+Science. A rigorous application of logical principles and protocols will lead us toward progress more surely than any belief system.
+Fun. I love my job! Despite the dangerous working conditions, there's nothing I'd rather do.
+Power. Someday I'll find or create the magic that will make me the most powerful being in Ravnica.
+Teamwork. Success depends on cooperation and communication.
+Code. The marines' code provides a solution for every problem, and following it is imperative.
+Embracing. Life is messy. Throwing yourself into the worst of it is necessary to get the job done.
+Might. The strong train so that they might rule those who are weak.
+Bravery. To act when others quake in fear—this is the essence of the warrior.
+Perseverance. No injury or obstacle can turn me from my goal.
+Generous. I have a responsibility to help and protect the less fortunate.
+Loyal. My word, once given, is my bond.
+Callous. I am unconcerned with any negative effects my actions may have on the lives and fortunes of others.
+Impulsive. I follow my heart.
+Ignorant. Explanations bore me.
+Isolationist. I am concerned with the fortunes of my friends and family. Others must see to themselves.
+Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity.
+Responsibility. It is my duty to respect the authority of those above me, just as those below me must respect mine.
+Independence. I must prove that I can handle myself without coddling from my family.
+Power. If I can attain more power, no one will tell me what to do.
+Family. Blood runs thicker than water.
+Noble Obligation. It is my duty to protect and care for the people beneath me.
+Guild. My guild is all that really matters.
+Wealth. I will do whatever it takes to become as rich as the oligarchs.
+Power. One day, I will be the one giving orders.
+Prestige. I want to be admired, respected, feared, or even hated for my position and wealth.
+Stability. The economy functions best when chaos is kept under control and everyone knows their place.
+Eternity. I want to live forever—in the flesh as long as possible, and as a spirit afterward.
+Change. Life is like the seasons, in constant change, and we must change with it.
+Greater Good. It is each person's responsibility to make the most happiness for the whole tribe.
+Honor. If I dishonor myself, I dishonor my whole clan.
+Might. The strongest are meant to rule.
+Nature. The natural world is more important than all the constructs of civilization.
+Glory. I must earn glory in battle, for myself and my clan.
+Leadership. The oppressed need someone to inspire them to courageous acts.
+Unpredictability. Keeping the enemy guessing and off-balance is my tactical strength.
+Determination. Threats to my home must be eliminated at all costs.
+Freedom. Those who are enslaved and unjustly imprisoned deserve my aid.
+Resourcefulness. Our wits are our most valuable resource in troubled times.
+Unity. Working together, we can overcome all obstacles, even the most seemingly insurmountable ones.
+Justice. Corruption brought nearby city down, I will not tolerate that any longer.
+Acceptance. Stability is a myth, to think you can control your future is futile.
+Hope. I am guided by a higher power and I trust that everything will be right in the end.
+Restraint. I hate those who caused my loss. It is all I can do not to lash out at them.
+Strength. As shown in Phlan, the strong survive. If you are weak you deserve what you get
+Openness. I am always willing to share my life story with anyone who will listen.
+Justice. Those who break the law need to answer for their crimes.
+Freedom. People must have the freedom to do what they want and pursue their dreams.
+Greed. Everyone I see is getting theirs, so I'm surely going to get mine.
+Chaos. You're out of order! And you're out of order! This whole realm is out of order!
+Humility. I'm just a small part of a larger whole. So is everyone else.
+Responsibility. We all have our roles to play. I'll hold up my end of the bargain.
+Guild. My guild is all that really matters.
+Hedonism. Death comes for everyone, so take as much pleasure as you can from every moment of life.
+Creativity. I strive to find more ways to express my art through pain—my own as well as others'.
+Freedom. No one tells me what to do.
+Equality. I want to see the world remade, with no guilds and no hierarchies.
+Spectacle. People are inspired by the greatness they see in art.
+Advancement. Money and power can be gained more easily within an organization. I plan to gain as much as possible.
+Structure. Life goes much more smoothly when you follow the rules and work within a system.
+Uncertainty. The more chaos that swirls around me, the more opportunities I can find to profit.
+Justice. I can't stand people being treated unjustly. I do whatever it takes to stop injustice and those who flout the law.
+Pleasure. What's the use of working hard and making money if you can't enjoy the finer things in life?
+Power. Money is fine, but real power means never having to say you're sorry.
+Knowledge. The path to power and self-improvement is through knowledge.
+Beauty. What is beautiful points us beyond itself toward what is true.
+Logic. Emotions must not cloud our logical thinking.
+No Limits. Nothing should fetter the infinite possibility inherent in all existence.
+Power. Knowledge is the path to power and domination.
+Self-Improvement. The goal of a life of study is the betterment of oneself.
+Respect. The thing that keeps a ship together is mutual respect between captain and crew.
+Fairness. We all do the work, so we all share in the rewards.
+Freedom. The sea is freedom—the freedom to go anywhere and do anything.
+Mastery. I'm a predator, and the other ships on the sea are my prey.
+People. I'm committed to my crewmates, not to ideals.
+Aspiration. Someday, I'll own my own ship and chart my own destiny.
+Quisling. Supporting the rulers of the land and following the laws is the road to salvation.
+Scoflaw. The laws and lawmakers are corrupt. I follow laws only when it suits me.
+Optimist. Everyone Is basically good. Though the government is misguided it will all be okay.
+Secretive. I am in the habit of not talking about myself. My business is none of yours.
+Heroic. I do everything I can to help non-humans, regardless of the personal cost to me.
+Depraved. I have lost my moral compass. The ends justify most any means.
+Guild. My guild is all that really matters.
+Harmony. Nothing is more beautiful than voices and actions aligned in common purpose.
+Order. Like a well-pruned tree, society thrives when everything is kept in good order.
+Life. Preserving life and nature is always a worthwhile endeavor.
+Humility. Ambition and pride are the roots of strife.
+Hope. I know even if I need do evil acts, history will be my redemption.
+Dedicated. I can do anything I put my mind to
+Exciting. I have found the truth of the Shadovar and want to share it with everyone.
+Frugal. I horde my possessions knowing that someday I will be called upon to give everything I have to the cause
+Eloquent. I use my words to sway others to my beliefs.
+Compassionate. It is through love that others will join in our cause.
+Crew. If everyone on deck pitches in, we'll never sink.
+Careful Lines. A ship must be balanced according to the laws of the universe.
+Invention. Make what you need out of whatever is at hand.
+Perfection. To measure a being and find it lacking is the greatest disappointment.
+Reflection. Muddied water always clears in time.
+Hope. The horizon at sea holds the greatest promise.
+Guild. My guild is all that really matters.
+Change. All life is meant to progress toward perfection, and our work is to hurry it along—no matter what must be upended along the way.
+Knowledge. Understanding the world is more important than what you do with your knowledge.
+Greater Good. I want to reshape the world into higher forms of life so that all can enjoy evolution.
+Logic. It's foolish to let emotions and principles interfere with the conclusions of logic.
+Superiority. My vast intellect and strength are directed toward increasing my sway over others.
+Wealth Heaps of coins in a secure vault is all I dream of.
+Smuggler's Code I uphold the unwritten rules of the smugglers, who do not cheat one another or directly harm innocents.
+All for a Coin I'll do nearly anything if it means I turn a profit.
+Peace and Prosperity I smuggle only to achieve a greater goal that benefits my community.
+People For all my many lies, I place a high value on friendship.
+Daring I am most happy when risking everything.
+Greater Good. Our lot is to lay down our lives in defense of others.
+Responsibility. I do what I must and obey just authority.
+Independence. When people follow orders blindly, they embrace a kind of tyranny.
+Might. In life as in war, the stronger force wins.
+Live and Let Live. Ideals aren't worth killing over or going to war for.
+Nation. My city, nation, or people are all that matter.
+Loss. I freely give those who offend me what was so brutally denied me, death.
+Dedication. I never betray those who trust me.
+Vengeance. I use any means to get information I need; I have been well taught.
+Redemption. Everyone deserves a second chance.
+Resilience. I can survive any challenge
+Leadership. The best teams are made up of those that society has discarded.
+Kinship. Family is most important in life. Though I may be far from my own, the bonds of family must be protected in others' lives as well.
+Preservation. Nature must not be despoiled by encroaching civilization.
+Wanderlust. One must expand their horizons by seeing the world and exploring.
+Isolation. My tribe and its ways must be protected and shielded from outside influence.
+Protection. Threats to the land and to the people must be dealt with at any and all costs.
+Belonging: All creatures have a place in the world, so I strive to help others find theirs.
+Hope. my job is to speak for the victim
+Dedicated. Once I start an investigation, until told to do so, I do not quit, not matter where it leads.
+Nation. My city, nation, or people are all that matter.
+Mercenary. When I do investigations, I expect answers immediately.
+Eloquent. I use my words to sway others to give me answers.
+Might. It is through threats and force that I get my answers.
+Respect. All people, rich or poor, deserve respect.
+Community. We have to take care of each other, because no one else is going to do it.
+Change. The low are lifted up, and the high and mighty are brought down. Change is the nature of things.
+Retribution. The rich need to be shown what life and death are like in the gutters.
+People. I help the people who help me—that's what keeps us alive.
+Aspiration. I'm going to prove that I'm worthy of a better life.
+Solidarity. The worthy must respect the worthy. In the afterlife, all will be united in goal and action.
+Knowledge. The worthy shall cultivate a nimble mind, so as to perceive the wonders beyond imagination that wait in the afterlife.
+Strength. The worthy shall hone a strong body that can withstand the boundless energies of the afterlife.
+Ambition. The worthy shall strive for greatness, for supremacy in life leads to supremacy in the afterlife.
+Zeal. The worthy shall rush to my god’s side with relentless passion, rising to overcome every obstacle in their way.
+Order. The will of the crown is absolute.
+True Loyalty. The Cerberus Assembly is greater than any power, even the crown.
+Death. The penalty for disloyalty is death.
+Determination. I cannot fail. Not ever.
+Fear. People should not respect power. They should fear it.
+Escape. The Volstrucker are pure evil! I can't atone for what I've done for them, but I can escape with my life.
+Friendship. I never leave a friend behind.
+Empathy. No creature should be made to suffer.
+Wanderlust. I prefer to take the less traveled path.
+Changeability. Change is good, which is why I live by an ever-changing set of rules.
+Honor. A deal is a deal, and I would never break one.
+Rule of Three. Everything in the multiverse happens in threes. I see the "rule of three" everywhere.
+Obsession. I won't let go of a grudge.
+Greed. I will do whatever it takes to get what I want, regardless of the harm it might cause.
