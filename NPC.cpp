@@ -1,8 +1,12 @@
-//
-// Created by zacru on 5/9/2024.
-//
-
 #include "NPC.h"
+
+NPC::NPC() {
+    name = "none";
+    sex = "none";
+    occupation = "none";
+    background = "none";
+    wealthLevel = 0.0;
+}
 
 // Getters
 string NPC::getName() const {
@@ -118,4 +122,70 @@ void NPC::clearBonds() {
 
 void NPC::clearFlaws() {
     flaws.clear();
+}
+
+// Generate Functions
+void NPC::generate_NPC() {
+
+}
+
+void NPC::generate_occupation() {
+
+}
+
+void NPC::generate_background() {
+
+}
+
+void NPC::generate_traits() {
+    // Get list of traits
+
+    // Get rand int 2-4
+
+    // Choose int-rand # of traits from list and add them to traits
+
+}
+
+void NPC::generate_ideals() {
+
+}
+
+void NPC::generate_bonds() {
+
+}
+
+void NPC::generate_flaws() {
+
+}
+
+void NPC::generate_sex() {
+    random_device rd;
+    mt19937 gen(rd());
+    uniform_int_distribution<int> distribution(1, 2);
+    int sexRand = distribution(gen);
+    if (sexRand == 1) {
+        setSex("Male");
+    } else {
+        setSex("Female");
+    }
+}
+
+void NPC::generate_name() {
+
+}
+
+// Other Functions
+void NPC::print() const {
+
+}
+
+vector<string> NPC::get_file_info(const string &Input_File) {
+    vector<string> item_List;
+    ifstream Reading_File(Input_File.c_str());
+    string line;
+    while (getline(Reading_File, line)) {
+        item_List.push_back(line);
+    }
+    Reading_File.close();
+    return item_List;
 }

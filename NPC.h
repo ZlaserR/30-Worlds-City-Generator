@@ -30,6 +30,9 @@ protected:
     double wealthLevel;
 
 public:
+
+    NPC();
+
     // Getters
     string getName() const;
     string getSex() const;
@@ -67,7 +70,28 @@ public:
     void clearFlaws();
 
     // Generate Functions
+    void generate_NPC();
 
+    void generate_occupation();
+
+    void generate_background();
+
+    void generate_traits();
+
+    void generate_ideals();
+
+    void generate_bonds();
+
+    void generate_flaws();
+
+    void generate_sex();
+
+    void generate_name();
+
+    // Other Functions
+    void print() const;
+
+    vector<string> get_file_info(const string& Input_File);
 
 };
 
