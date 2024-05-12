@@ -1,0 +1,43 @@
+Laborer,6,0,N
+Weaver,11,5,A
+Baker,16,8,A
+Butcher,16,8,A
+Stonemason,13,1,A
+Fisherman,13,1,A
+Farmer,13,1,A
+Cobbler,16,8,A
+Wheelwright,9,1,A
+Roofer,7,0,A
+Locksmith,16,8,A
+Tanner,16,8,A
+Merchant,19,8,A
+Carpenter,16,8,A
+Cook,13,5,A
+Blacksmith,17,8,A
+Armour,17,8,A
+Servant,10,1,N
+Dyer,7,1,A
+Guard,15,8,N
+Guard Captain,16,8,A
+Soldier,15,8,N
+Adventurer,20,1,A
+Coachman,7,1,N
+Woodchopper,7,0,N
+Wood Artisan,16,8
+Painter,17,5,A
+Tavern Keeper,16,8,A
+Innkeeper,16,8,A
+Sadler,14,6,A
+Messenger,12,5,N
+Ropemaker,9,1,A
+Miller,11,1,A
+Jeweler,19,13,A
+Fletcher,16,8,A
+Alchemist,17,8,A
+Librarian,12,8,A
+Noble,20,17,A
+Hunter,15,3,A
+Lowly Criminal,7,0,N
+Criminal,14,6,A
+Gang Boss,18,15,A
+Priest,17,0,A

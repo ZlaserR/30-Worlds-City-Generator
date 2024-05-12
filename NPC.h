@@ -13,6 +13,7 @@
 #include <ctime>
 #include <random>
 #include <algorithm>
+#include <sstream>
 #include "Culture.h"
 using namespace std;
 
@@ -69,8 +70,16 @@ public:
     void clearBonds();
     void clearFlaws();
 
+    // Functions to check if an input exists in vectors
+    bool hasPersonalityTrait(const string& trait) const;
+    bool hasIdeal(const string& ideal) const;
+    bool hasBond(const string& bond) const;
+    bool hasFlaw(const string& flaw) const;
+
     // Generate Functions
     void generate_NPC();
+
+    void generate_wealthLevel();
 
     void generate_occupation();
 
@@ -92,6 +101,8 @@ public:
     void print() const;
 
     vector<string> get_file_info(const string& Input_File);
+
+    virtual vector<string> split_string(const string& input, char del);
 
 };
 

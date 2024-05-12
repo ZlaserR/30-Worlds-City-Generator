@@ -22,6 +22,7 @@ protected:
     string firstNameFileF;
     string lastNameFile;
     string specializationsFile;
+    string occupationFile;
 
 public:
 
@@ -33,13 +34,15 @@ public:
     string getFirstNameFileF() const;
     string getLastNameFile() const;
     string getSpecializationsFile() const;
+    string getOccupationFile() const;
 
     // Setters
     void setName(const string& newName);
     void setFirstNameFileM(const string& newFileName);
     void setFirstNameFileF(const string& newFileName);
     void setLastNameFile(const string& newFileName);
-    void setSpecializationsFile(const string& newFileName)
+    void setSpecializationsFile(const string& newFileName);
+    void setOccupationFile(const string& newFileName);
 };
 
 
