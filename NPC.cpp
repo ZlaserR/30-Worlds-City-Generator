@@ -6,6 +6,10 @@ NPC::NPC() {
     occupation = "none";
     background = "none";
     wealthLevel = 0.0;
+    clearPersonalityTraits();
+    clearBonds();
+    clearFlaws();
+    clearIdeals();
 }
 
 // Getters

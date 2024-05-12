@@ -23,7 +23,6 @@ Soldier,15,8,N
 Adventurer,20,1,A
 Coachman,7,1,N
 Woodchopper,7,0,N
-Wood Artisan,16,8
 Painter,17,5,A
 Tavern Keeper,16,8,A
 Innkeeper,16,8,A
@@ -35,9 +34,15 @@ Jeweler,19,13,A
 Fletcher,16,8,A
 Alchemist,17,8,A
 Librarian,12,8,A
+Bookseller,16,8,A
 Noble,20,17,A
 Hunter,15,3,A
 Lowly Criminal,7,0,N
 Criminal,14,6,A
 Gang Boss,18,15,A
 Priest,17,0,A
+Mercenary,17,7,A
+Barbers,14,6,A
+Chandler,16,7,A
+Scribe,16,7,A
+Watercarrier,6,0,N
