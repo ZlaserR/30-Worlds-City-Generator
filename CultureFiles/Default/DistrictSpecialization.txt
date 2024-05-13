@@ -1,0 +1,13 @@
+Governmental,none,20,15,N
+Military,none,20,10,N
+Dock,River|Coast,20,5,Y
+Religious,none,20,13,N
+Merchant,Trade,20,12,Y
+Bazaar,Trade,20,8,Y
+Manufactory,Wood|Stone|Metal|Gemstones,15,5,Y
+Mining,Stone|Metal|Gemstones,12,0,Y
+Lumbering,Wood,12,0,Y
+Farming,Farmland,14,0,Y
+Slum,none,6,0,Y
+Residential,none,20,0,Y
+Immigrant,none,18,3,Y

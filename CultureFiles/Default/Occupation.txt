@@ -46,3 +46,8 @@ Barbers,14,6,A
 Chandler,16,7,A
 Scribe,16,7,A
 Watercarrier,6,0,N
+Educator,18,8,A
+Stable Hand,7,3,N
+Clerk,15,8,A
+Scholar,16,8,A
+Surgeon,17,7,A

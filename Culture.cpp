@@ -7,6 +7,7 @@ Culture::Culture() {
     lastNameFile = "../CultureFiles/Default/LastNames.txt";
     specializationsFile = "../CultureFiles/Default/DistrictSpecialization.txt";
     occupationFile = "../CultureFiles/Default/Occupation.txt";
+    notableLocationsFile = "../CultureFiles/Default/NotableLocationsTypes.txt";
 }
 
 // Getters
@@ -34,6 +35,10 @@ string Culture::getOccupationFile() const {
     return occupationFile;
 }
 
+string Culture::getNotableLocationsFile() const {
+    return notableLocationsFile;
+}
+
 // Setters
 void Culture::setName(const string& newName) {
     name = newName;
@@ -57,4 +62,8 @@ void Culture::setSpecializationsFile(const string& newFileName) {
 
 void Culture::setOccupationFile(const string& newFileName) {
     occupationFile = newFileName;
+}
+
+void Culture::setNotableLocationsFile(const string &newFileName) {
+    notableLocationsFile = newFileName;
 }

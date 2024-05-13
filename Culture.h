@@ -23,6 +23,7 @@ protected:
     string lastNameFile;
     string specializationsFile;
     string occupationFile;
+    string notableLocationsFile;
 
 public:
 
@@ -35,6 +36,7 @@ public:
     string getLastNameFile() const;
     string getSpecializationsFile() const;
     string getOccupationFile() const;
+    string getNotableLocationsFile() const;
 
     // Setters
     void setName(const string& newName);
@@ -43,6 +45,7 @@ public:
     void setLastNameFile(const string& newFileName);
     void setSpecializationsFile(const string& newFileName);
     void setOccupationFile(const string& newFileName);
+    void setNotableLocationsFile(const string& newFileName);
 };
 
 

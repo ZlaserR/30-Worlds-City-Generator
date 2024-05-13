@@ -15,6 +15,7 @@
 #include <algorithm>
 #include <sstream>
 #include "Culture.h"
+#include "NameGenerator.h"
 using namespace std;
 
 class NPC {
@@ -33,6 +34,10 @@ protected:
 public:
 
     NPC();
+
+    NPC(string pOccup, double pWealthLevel);
+
+    ~NPC() = default;
 
     // Getters
     string getName() const;

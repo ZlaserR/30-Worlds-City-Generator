@@ -3,21 +3,103 @@
 //
 
 #include "NameGenerator.h"
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <string>
-#include <cstdlib>
-#include <ctime>
-#include <random>
-#include <algorithm>
 using namespace std;
 
-const int ZERO = 0;
-const int ONE = 1;
 
 
 NameGenerator::NameGenerator() {
+    name = "none";
+    sex = "none";
+}
+
+NameGenerator::NameGenerator(Culture pCulture, string pSex) {
+    name = "none";
+    sex = pSex;
+    setCulture(pCulture);
+}
+
+// Getters
+string NameGenerator::getName() const {
+    return name;
+}
+
+// Setters
+void NameGenerator::setName(const string &newName) {
+    name = newName;
+}
+
+Culture NameGenerator::getCulture() const {
+    return culture;
+}
+
+void NameGenerator::setCulture(const Culture &newCulture) {
+    culture = newCulture;
+}
+
+string NameGenerator::getSex() const {
+    return sex;
+}
+
+void NameGenerator::setSex(const string &newSex) {
+    sex = newSex;
+}
+
+void NameGenerator::make_name() {
+    srand(time(0));
+    string First_Name_Input;
+    if (getSex() == "Male") {
+        First_Name_Input = culture.getFirstNameFileM();
+    } else {
+        First_Name_Input = culture.getFirstNameFileF();
+    }
+    string Last_Name_Input = culture.getLastNameFile();
+
+    int LN_Syl_Max = 3;
+    int LN_Syl_CharMin = 0;
+    int FN_Min = 2;
+    int LN_Min = 1;
+
+    vector<std::string> NameF, NameL;
+    string Name;
+    int Syl_Num_Start = 2; // Initial value in Python code was 2
+    int Syl_NumF = Syl_Num_Start;
+    int Syl_NumL = rand() % LN_Syl_Max + 1;
+    while (Syl_NumF != 0) {
+        string New_Syl = get_Syls(First_Name_Input);
+        while (New_Syl.length() <= FN_Min) {
+            New_Syl = get_Syls(Last_Name_Input);
+        }
+        NameF.push_back(New_Syl);
+        --Syl_NumF;
+    }
+    string concatenatedF;
+    for (const auto& syl : NameF) {
+        concatenatedF += syl;
+    }
+    string NameF_string = concatenatedF;
+    NameF_string[0] = toupper(NameF_string[0]);
+    while (Syl_NumL != 0) {
+        string New_Syl = get_Syls(Last_Name_Input);
+        if (Syl_NumL != 1 && New_Syl.length() <= LN_Syl_CharMin) {
+            NameL.push_back(New_Syl);
+        } else {
+            while (New_Syl.length() <= LN_Min) {
+                New_Syl = get_Syls(Last_Name_Input);
+            }
+            NameL.push_back(New_Syl);
+            --Syl_NumL;
+        }
+    }
+    string concatenatedL;
+    for (const auto& syl : NameL) {
+        concatenatedL += syl;
+    }
+    string NameL_string = concatenatedL;
+    NameL_string[0] = toupper(NameL_string[0]);
+    Name.append(NameF_string);
+    Name.append(" ");
+    Name.append(NameL_string);
+    setName(Name);
 
 }
 
@@ -28,7 +110,7 @@ string NameGenerator::get_Syls(const string &Input_File) {
     string line;
     while (getline(Reading_File, line)) {
         Syl_List.push_back(line);
-        Num_of_Syls += ONE;
+        Num_of_Syls += 1;
     }
     Reading_File.close();
     int Choice_Num = rand() % Num_of_Syls;

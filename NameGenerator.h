@@ -13,15 +13,35 @@
 #include <ctime>
 #include <random>
 #include <algorithm>
+#include "Culture.h"
 using namespace std;
 
 class NameGenerator {
+protected:
+    string name;
+    Culture culture;
+    string sex;
 
+public:
     NameGenerator();
+
+    ~NameGenerator() = default;
+
+    explicit NameGenerator(Culture pCulture, string pSex);
+
+    string getName() const;
+    Culture getCulture() const;
+    string getSex() const;
+
+    void setCulture(const Culture& newCulture);
+    void setName(const string& newName);
+    void setSex(const string& newSex);
+
+    void make_name();
 
     string get_valid_answer(vector<string> vecAnswers);
 
-    string get_Syls(const string& Input_File);
+    static string get_Syls(const string& Input_File);
 
 };
 

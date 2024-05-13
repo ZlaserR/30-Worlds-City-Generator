@@ -1,11 +1,25 @@
 #include "NPC.h"
 
+#include <utility>
+
 NPC::NPC() {
     name = "none";
     sex = "none";
     occupation = "none";
     background = "none";
     wealthLevel = 0.0;
+    clearPersonalityTraits();
+    clearBonds();
+    clearFlaws();
+    clearIdeals();
+}
+
+NPC::NPC(string pOccup, double pWealthLevel) {
+    name = "none";
+    sex = "none";
+    occupation = std::move(pOccup);
+    background = "none";
+    wealthLevel = pWealthLevel;
     clearPersonalityTraits();
     clearBonds();
     clearFlaws();
@@ -175,6 +189,7 @@ void NPC::generate_NPC() {
     generate_bonds();
     generate_flaws();
     generate_sex();
+    generate_name();
 }
 
 void NPC::generate_wealthLevel() {
@@ -233,6 +248,7 @@ void NPC::generate_occupation() {
             }
 
             occupName += "’s Assistant";
+            //cout << occupName;
         }
 
         if (wMax >= getWealthLevel() && wMin <= getWealthLevel()) {
@@ -358,11 +374,38 @@ void NPC::generate_sex() {
 }
 
 void NPC::generate_name() {
-
+    NameGenerator newNameGen(culture, sex);
+    newNameGen.make_name();
+    setName(newNameGen.getName());
 }
 
 // Other Functions
 void NPC::print() const {
+    cout << name <<  " is a " << occupation << endl;
+    cout << "Who has the Personality Traits of ";
+    for (const auto& trait : personalityTraits) {
+        cout << trait << " ";
+    }
+    cout << endl;
+
+    cout << name << " has the ideals of ";
+    for (const auto& trait : ideals) {
+        cout << trait << " ";
+    }
+    cout << endl;
+
+    cout << name << " has the bonds of ";
+    for (const auto& trait : bonds) {
+        cout << trait << " ";
+    }
+    cout << endl;
+
+    cout << name << " has the flaws of ";
+    for (const auto& trait : flaws) {
+        cout << trait << " ";
+    }
+    cout << endl;
+    cout << name << " wealth level is " << wealthLevel << endl;
 
 }
 

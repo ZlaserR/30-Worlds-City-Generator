@@ -1,0 +1,24 @@
+Historical Monument,none,all,20,5
+Temple,Priest,all,20,5
+University,Educator,all,20,10
+Guild Hall,Guild Member,all,20,7
+Estate,Noble,Residential,20,15
+Government Building,Clerk,Governmental,20,12
+Museum,Scholar,all,20,13
+Hospital,Surgeon,all,20,8
+Bakery,Baker,all,20,5
+Butchery,Butcher,all,20,5
+Haberdashery,Haberdasher,all,20,10
+Tailor’s Shop,Tailor,all,20,5
+Tannery,Tanner,all,20,5
+Blacksmith,Blacksmith,all,20,5
+Armory,Armour,all,20,12
+Tavern,Tavern Keeper,all,20,0
+Inn,Innkeeper,all,20,0
+Fletcher,Fletcher,all,20,5
+General Store,Chandler,all,20,5
+Adventuring Store,Merchant,all,20,12
+Jewelry Store,Jeweler,all,20,16
+Potion Shop,Alchemist,all,20,13
+Book Store,Bookseller,all,20,13
+Shipping Supplies Store,Merchant,Dock,20,5
